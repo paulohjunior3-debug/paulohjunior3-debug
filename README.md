@@ -1,4 +1,4 @@
-# Olá, eu sou Paulo Faria 👋
+# Olá, eu sou Paulo Henrique 👋
 
 Desenvolvedor Java com foco em back-end, formado em Sistemas de Informação pelo Centro Universitário Una. Busco minha primeira oportunidade como Desenvolvedor Jr/Trainee.
 
