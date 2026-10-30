@@ -1,13 +1,13 @@
 # Olá, eu sou Paulo Henrique 👋
 
-Desenvolvedor full stack formado em Sistemas de Informação pelo Centro Universitário Una. Crio sistemas que **rodam no dia a dia de empresas reais**: do pedido do garçom no celular ao fechamento do caixa do mês. Busco minha primeira oportunidade como Desenvolvedor Júnior.
+Desenvolvedor full stack e estudante de Sistemas de Informação no Centro Universitário Una (conclusão em 07/2027). Crio sistemas que **rodam no dia a dia de empresas reais**: do pedido do garçom no celular ao fechamento do caixa do mês. Busco minha primeira oportunidade como Desenvolvedor Júnior.
 
 ## 🚀 Sobre mim
 
 - 🍽️ **Sistema de comandas em produção** num restaurante, usado todos os dias por garçons, caixa e cozinha
 - 📊 **Fechamento de caixa mensal** em uso em duas empresas, com relatório em PDF para os sócios
 - 💼 Fundador do **CitySpot**, app mobile de descoberta urbana
-- 🎓 Sistemas de Informação, Centro Universitário Una
+- 🎓 Sistemas de Informação, Centro Universitário Una (conclusão em 07/2027)
 - 📍 Uberlândia, MG, aberto a oportunidades remotas, híbridas ou presenciais
 - 🤖 Uso IA como ferramenta de desenvolvimento, com as decisões e a revisão do código sob minha responsabilidade
 
